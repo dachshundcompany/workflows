@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env/
+*.venv
+.venv/
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Scripts generados
+*.sh~
+*.bak
+*.tmp
+*.swp
+*.out
+*.log
+
+# General
+.idea/
+.vscode/
+*.lock
